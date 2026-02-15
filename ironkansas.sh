@@ -16,6 +16,9 @@ fi
 
 # List of known IronSource/AppCloud and related carrier spyware packages
 PACKAGES="
+com.ironsource.appcloud.oobe.hutchison
+com.aura.oobe.samsung
+com.aura.oobe.samsung.gl
 com.ironsrc.aura.tmo
 com.aura.jet.att
 com.aura.oobe.dish
