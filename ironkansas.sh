@@ -19,6 +19,8 @@ PACKAGES="
 com.ironsource.appcloud.oobe.hutchison
 com.aura.oobe.samsung
 com.aura.oobe.samsung.gl
+com.aura.suite
+com.ironsource.appcloud.store.lg.vr
 com.ironsrc.aura.tmo
 com.aura.jet.att
 com.aura.oobe.dish
