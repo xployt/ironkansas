@@ -18,6 +18,7 @@ fi
 PACKAGES="
 com.ironsrc.aura.tmo
 com.aura.jet.att
+com.aura.oobe.dish
 com.ironsrc.aura
 com.ironsrc.appcloud
 com.ironsrc.services
