@@ -21,6 +21,7 @@ com.aura.oobe.samsung
 com.aura.oobe.samsung.gl
 com.aura.suite
 com.ironsource.appcloud.store.lg.vr
+com.aura.oobe.solutions
 com.ironsrc.aura.tmo
 com.aura.jet.att
 com.aura.oobe.dish
