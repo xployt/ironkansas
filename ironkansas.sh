@@ -39,6 +39,7 @@ com.ironsrc.aura.bst
 com.ironsrc.aura.cricket
 com.ironsrc.aura.google
 com.ironsrc.aura.android
+com.aura.news.hashtag.news
 "
 
 $ECHO "Scanning for spyware packages..."
